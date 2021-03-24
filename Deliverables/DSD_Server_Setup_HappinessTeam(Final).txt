@@ -1,9 +1,0 @@
-运行环境：
-Windows10 + PyCharm + Anaconda + Eclipse + MYSQL + Tomcat
-python version==3.7
-tensorflow version==1.13.1
-keras version==2.1.5
-numpy version==1.15.4
-java jdk==1.8.0 202
-mysql version==8.0.15 for Win64 on x86_64 (MySQL Community Server - GPL)
-Tomcat version==v9.0
